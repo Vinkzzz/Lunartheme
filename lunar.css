@@ -2,6 +2,7 @@
  * @name Lunar-Suite
  * @author Yearn
  * @version 1.1.0
+ * @authorId 1347115338088841226
  * @description Built By Lunar Suite for you
  * @source none
 */
@@ -9,7 +10,7 @@
  hope you love it
 */
 
-@import url("replace");
+@import url("https://raw.githubusercontent.com/Vinkzzz/Lunartheme/refs/heads/main/main.css");
 
 /*
 :root {
