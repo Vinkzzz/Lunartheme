@@ -5,7 +5,7 @@
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.theme.css");
 
 :root {
-  --background: url("https://i.pinimg.com/originals/50/1a/7a/501a7a4ad553fc0ba83a3a0e8551caf8.gif");
+  --background: url("https://i.pinimg.com/736x/2a/5c/44/2a5c448b3c902bb6a2985a48484c9170.jpg");
   --font:                       "Inter";
   --transparencyalpha:          0.7;
   --transparencycolor:			    0,0,0;
@@ -13,7 +13,7 @@
 	--guildchanneltransparency:		0;
 	--chatinputtransparency:		  0;
 	--memberlisttransparency:		  0.3;
-	--accentcolor:					      255, 255, 255, 0.2
+	--accentcolor:					      212, 175, 55, 0.4
 }
 
 .theme-dark {
